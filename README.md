@@ -2,7 +2,7 @@
 
 Propuesta de diseño de la home de Monfort & Bonell (Lienzzo). Es una sola página HTML, sin compilación.
 
-**Web publicada:** https://monfort-bonell-web.vercel.app
+**Web publicada:** https://monfort-bonell-propuesta.vercel.app
 
 ## Cómo editar
 
