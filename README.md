@@ -18,3 +18,7 @@ Cada cambio que llega a la rama `main` se publica solo en Vercel en un minuto ap
 - El logotipo es SVG vectorial y está al principio del `<body>` (símbolos `mb-iso`, `mb-logo`, `mb-word`). No conviene editarlo a mano.
 - Las fotografías son provisionales (Unsplash).
 - La web real del despacho (Next.js + Sanity) vive en otro repositorio privado.
+
+## Indexación
+
+Esta propuesta **no debe salir en Google**: lleva `noindex` en el `<head>`, un `robots.txt` que bloquea todo y la cabecera `X-Robots-Tag` (en `vercel.json`). No los quites mientras sea una propuesta.
